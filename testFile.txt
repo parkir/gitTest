@@ -1,0 +1,4 @@
+1. Add/commit your code locally
+2. Go to Github and make a new repository
+3. Connect your local repo to the github repo (add a remote)
+4. Push your code up to github using the new remote
